@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 21 19:49:49 2021
+Created on Monday 03-01-2022
 
-@author: chris
+@author:
+        Christoph Krüger
+        christoph.kruger@yahoo.com
+        Computational Science MSc student at University of Amsterdam
 
 Add iea_files.txt with the id's to your current directory.
 Create another folder called "data_python" in your current directory to save the data there
