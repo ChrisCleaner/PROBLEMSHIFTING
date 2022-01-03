@@ -68,7 +68,7 @@ for num, id_ in enumerate(id_list):
             f.write(site_content)
             
         found_counter += 1
-        print(site_content)
+        
         
     except:           #if website cannot be loaded, add data to statistics       
         print("Not Found: ", id_)
